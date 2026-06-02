@@ -1,0 +1,6 @@
+streamlit
+skyfield
+numpy
+pandas
+matplotlib
+scipy
